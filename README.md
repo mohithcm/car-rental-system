@@ -15,7 +15,6 @@ This is a project for a car rental website. It is a project for the College Mini
 - [Car Listing Page](#car-listing-page)
 - [User Story](#user-story)
 - [Admin Page](#admin-page)
-- [Project Report](#project-report)
 - [License](#license)
 - [Demo](#demo)
 - [Authors](#authors)
@@ -102,7 +101,7 @@ This is a project for a car rental website. It is a project for the College Mini
 
 ## Project Report
 
-- The project report is stored in a folder called [report](https://github.com/Varshithvhegde/car_rental_project/raw/main/report/CarProjectFinalReport.pdf).
+- The project report is stored in a folder called [report].
 - Report consists of the following:
     - Introduction
     - Literature Review
@@ -121,12 +120,13 @@ This is a project for a car rental website. It is a project for the College Mini
 ## Demo
 
 - [Live Deployment](https://carsminiproject.000webhostapp.com/)
-- [Video Demo](https://youtu.be/1Z9Z9Z9Z9Z9)
 
 ## Authors 
 
-- [Varshith V Hegde](https://github.com/Varshithvhegde)
-- [Swasthik Jain PM](https://github.com/Swasthik-Jain)
+- [Mohith CM](https://github.com/mohithcm)
+- [BS Nivdhan](https://github.com)
+- [Vishal RK](https://github.com)
+- [ML Abhijnan](https://github.com)
 
 ## Show your support
 
